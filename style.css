@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ .principal{
+    display: flex;
+    text-align: center;
+    background-color: beige;
+    
+ }
+ .titulo{
+    border: 8px solid red
+    
+ }
+ .imagen{
+    border-radius: 15px;
+    
+    border: 6px solid black
+ }
